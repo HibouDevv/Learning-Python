@@ -15,3 +15,8 @@
 | math.log2(x)      |  Returns the base-2 logarithm of x.                                               |
 | math.pi           |  Returns the mathematical constant pi (3.141593...).                              |
 | math.pow(x, y)    |  Returns x raised to the power y.                                                 |
+| math.radians(x)   |  Converts angle x from degrees to radians.                                        |
+| math.sin(x)       |  Returns the sine of x, (when x is expressed in radians).                         |
+| math.sqrt(x)      |  Returns the square root of x.                                                    |
+| math.tan(x)       |  Returns the tangent of x radians.                                                |
+| math.tau()        |  Returns the mathematical constant tau (6.283185...).                             |
